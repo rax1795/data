@@ -1,2 +1,2 @@
-# restaurantcsv
-hosting a csv here for a web app to access
+# data
+hosting spatial data here for a mapping web app to access
