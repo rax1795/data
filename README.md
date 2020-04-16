@@ -1,2 +1,2 @@
 # data
-hosting spatial data here for a mapping web app to access
+Hosting spatial data (GeoJSON) here for a web mapping application (Car-Lite SG) to access
